@@ -7,3 +7,6 @@ This Spotify clone, built using HTML, CSS, and JavaScript, offers a web-based mu
 [@Pietrek1989](https://github.com/Pietrek1989)
 [@Zaiido](https://github.com/Zaiido)
 [@Eleni-Ke](https://github.com/Eleni-Ke)
+
+## URL
+https://pietrek1989.github.io/fs-0522-build-week-2-Spotify/
